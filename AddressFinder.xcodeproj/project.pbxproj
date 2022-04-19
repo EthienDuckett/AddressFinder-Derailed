@@ -13,6 +13,7 @@
 		79ACF9E3280EF004006D72EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79ACF9E1280EF004006D72EB /* Main.storyboard */; };
 		79ACF9E5280EF010006D72EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79ACF9E4280EF010006D72EB /* Assets.xcassets */; };
 		79ACF9E8280EF010006D72EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79ACF9E6280EF010006D72EB /* LaunchScreen.storyboard */; };
+		79ACF9F0280EF10A006D72EB /* MapModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79ACF9EF280EF10A006D72EB /* MapModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		79ACF9E4280EF010006D72EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79ACF9E7280EF010006D72EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79ACF9E9280EF010006D72EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79ACF9EF280EF10A006D72EB /* MapModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		79ACF9DA280EF004006D72EB /* AddressFinder */ = {
 			isa = PBXGroup;
 			children = (
+				79ACF9EF280EF10A006D72EB /* MapModel.swift */,
 				79ACF9DB280EF004006D72EB /* AppDelegate.swift */,
 				79ACF9DD280EF004006D72EB /* SceneDelegate.swift */,
 				79ACF9DF280EF004006D72EB /* ViewController.swift */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79ACF9F0280EF10A006D72EB /* MapModel.swift in Sources */,
 				79ACF9E0280EF004006D72EB /* ViewController.swift in Sources */,
 				79ACF9DC280EF004006D72EB /* AppDelegate.swift in Sources */,
 				79ACF9DE280EF004006D72EB /* SceneDelegate.swift in Sources */,
