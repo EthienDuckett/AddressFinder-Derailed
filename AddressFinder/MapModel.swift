@@ -54,7 +54,7 @@ class MapAPI: ObservableObject {
                 print("Could not find the address...")
                 return
             }
-            DispatchQueue.main.async {
+            DispatchQueue.main.sync {
                 let details = newCoordinates.data[0]
                 let lat = details.latitude
                 let lon = details.longitude
