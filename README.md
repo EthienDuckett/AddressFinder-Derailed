@@ -5,6 +5,4 @@ This is an app made by following a tutorial made by a YouTuber. The ended up mak
 School project. Assignment: choose a Swift programming tutorial and make the app they show.
 
 ## Tutorial
-https://www.youtube.com/watch?v=dJ6f2o92tKg
-How to create an Address Finder (MapKit) in SwiftUI Tutorial (2022)
-Tutorial YouTube channel: **Code Palace**
+How to create an Address Finder (MapKit) in SwiftUI Tutorial (2022) https://www.youtube.com/watch?v=dJ6f2o92tKg
