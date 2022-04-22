@@ -1,5 +1,5 @@
 # AddressFinder-Derailed
-This is an app made by following a tutorial made by a YouTuber. The ended up making the app in UIKit while the YouTuber used SwiftUI
+This is an app made by following a tutorial made by a YouTuber. I made the app in UIKit while the YouTuber used SwiftUI (there are notable differences between the two code bases and also different features)
 
 ## Purpose
 School project. Assignment: choose a Swift programming tutorial and make the app they show.
